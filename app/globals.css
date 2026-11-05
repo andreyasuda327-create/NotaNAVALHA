@@ -317,3 +317,8 @@ button {
 }
 
 }
+
+/* ESTRUTURA PRINCIPAL */
+.app-shell {
+  min-height: 100vh;
+}
